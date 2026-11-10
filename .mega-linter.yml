@@ -1,0 +1,7 @@
+# MegaLinter Configuration
+APPLY_FIXES: none
+VALIDATE_ALL_CODE_BASE: true
+FILTER_REGEX_EXCLUDE: "(.*\\.jar$|.*\\.disabled$)"
+PRINT_ALPACA: false
+SHOW_ELAPSED_TIME: true
+FILEIO_REPORTER: false
