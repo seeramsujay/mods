@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="mods Logo" width="120" height="120" />
+</p>
+
+<h1 align="center">mods</h1>
+
+<p align="center">
+  <em>Minecraft Fabric 1.21 Modpack Collection & Optimization Guide</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Maintained-success?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/License-Protected-blue?style=flat-square" alt="License" />
+</p>
+
+---
+
 # Minecraft Fabric 1.21 Modpack & Optimization Collection
 
 A curated collection of client-side performance, visual enhancement, audio realism, and quality-of-life mods designed for **Minecraft 1.21.x** running on the **Fabric Loader**.
